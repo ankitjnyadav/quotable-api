@@ -5,3 +5,4 @@
 3. [Execution Report File](/report.html)
 4. [RobotFramework Testuite File](/quotable-api.robot)
 5. [Project Requirements File](/test-requirements.txt)
+5. [Test Plan Document](/InventoryAPI-TestPlan.docx)
